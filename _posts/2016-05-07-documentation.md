@@ -3,6 +3,11 @@ layout: post
 title: Documentation
 ---
 
+{:toc}
+
+# Youtube:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3W-FNTlBwhY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # Features:
 Hagura is a theme made for blogs with long text paragraphs. Made to be easy on eyes as well. 
 
@@ -11,7 +16,6 @@ Suitable fonts are selected for better readability. Since the theme is created f
 The theme comes with pre-installed **analytics**, **disqus** and **html compressor**. But make sure you change key parameters in the **_config.yml** file.
 
 * Do not remove this line (it will not be displayed) 
-{:toc}
 
 ## Switch Night-Mode
 The best part is the night-mode that comes with this theme. Once you click on night-mode, the website remebers it untill you close or toggle!
